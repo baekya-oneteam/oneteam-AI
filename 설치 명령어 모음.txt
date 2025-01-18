@@ -1,0 +1,5 @@
+# FastAPI 실행 명령어
+uvicorn recommend_api:app --host 0.0.0.0 --port 8000
+
+의존성 설치 명령어
+pip install -r requirements.txt
