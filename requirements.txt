@@ -1,4 +1,6 @@
 fastapi
 uvicorn
-scikit-learn
+sqlalchemy
+pymysql
 pandas
+scikit-learn
